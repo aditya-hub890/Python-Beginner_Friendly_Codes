@@ -1,6 +1,5 @@
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-
+![Image](https://github.com/user-attachments/assets/245e9db4-97fd-4873-99ea-6af156319004)
 
 # Python- Beginner Friendly Codes
 
