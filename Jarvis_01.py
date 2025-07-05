@@ -19,7 +19,7 @@ def speak(text):
     # Generate speech
     audio = client.text_to_speech.convert(
         text=text,
-        voice_id="JBFqnCBsd6RMkjVDRZzb",  # use voice_id here 
+        voice_id="Voice_ID",  # use voice_id here 
         model_id="eleven_multilingual_v2"
     )
         
@@ -52,7 +52,7 @@ def order(a):
         link=Music_Lib_02.music[song]
         webbrowser.open(link)
     elif "news" in a.lower():
-        newsapi="299702a453e742b7b06407086d06f8fd"
+        newsapi="Your_news_api_key" # Get your news api key from news api
         response=requests.get (f"https://newsapi.org/v2/top-headlines?country=us&apiKey={newsapi}")
         articles=response.json().get("articles",[])
         if not articles:
@@ -63,7 +63,7 @@ def order(a):
                 print(f"{i}. {article["title"]}")
     else:
         
-        client=OpenAI(api_key="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")
+        client=OpenAI(api_key="Your_openai_api_key") # Get it from openai api 
 
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",
