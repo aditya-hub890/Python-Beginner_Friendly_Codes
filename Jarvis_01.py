@@ -63,7 +63,7 @@ def order(a):
                 print(f"{i}. {article["title"]}")
     else:
         
-        client=OpenAI(api_key="Your_openai_api_key") # Get it from openai api 
+        client=OpenAI(api_key= "Your_openai_api_key") # Get it from openai api 
 
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",
