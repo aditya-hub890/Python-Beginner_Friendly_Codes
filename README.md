@@ -1,5 +1,5 @@
 
-![Logo](https://4kwallpapers.com/images/wallpapers/python-logo-dark-3840x2160-16094.png)
+![Logo]([https://4kwallpapers.com/images/wallpapers/python-logo-dark-3840x2160-16094.png](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Fpython-logo-dark-16094.html&psig=AOvVaw3TuKJJNHslM4snracbVNfY&ust=1751786878607000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDVw_KYpY4DFQAAAAAdAAAAABAE))
 
 
 # Python- Beginner Friendly Codes
